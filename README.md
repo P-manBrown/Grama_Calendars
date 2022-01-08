@@ -33,7 +33,7 @@
 - 個人でも他の人の実績を参考にして計画を立てたい時
 
 ## 設計書
-<...>
+[ワイヤーフレーム](https://xd.adobe.com/view/41582f10-8cd2-4dd6-93c0-121b858574e7-140b/?fullscreen)
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/10ezc1_sTOXBFugF0UT1gFSqZ9fEdmTdSSA_RZPAIcCo/edit#gid=0
